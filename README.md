@@ -35,3 +35,5 @@ The Categories component is a custom component used to display a list of categor
 Screenshots
 Below are screenshots of the app, showcasing the custom buttons with image backgrounds and various UI components:
 
+https://github.com/Asamoah360/rn-assignment3-11338311/blob/main/Screenshots/WhatsApp%20Image%202024-06-02%20at%2021.50.42_01f24d10.jpg
+
