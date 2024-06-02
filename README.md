@@ -37,3 +37,4 @@ Below are screenshots of the app, showcasing the custom buttons with image backg
 
 https://github.com/Asamoah360/rn-assignment3-11338311/blob/main/Screenshots/WhatsApp%20Image%202024-06-02%20at%2021.50.42_01f24d10.jpg
 
+https://github.com/Asamoah360/rn-assignment3-11338311/blob/main/Screenshots/WhatsApp%20Video%202024-06-02%20at%2021.50.48_c8259e20.mp4
