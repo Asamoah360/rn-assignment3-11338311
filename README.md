@@ -1,5 +1,4 @@
 # rn-assignment3-11338311
-# rn-assignment3-11338311
 Assignment 3 - React Native App
 This project is an implementation of the UI design provided for Assignment 3. The app utilizes various core React Native components and custom components to achieve the desired functionality and style.
 
